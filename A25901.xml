@@ -1,0 +1,376 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Art of getting money by double-fac'd wagers, or, Cross and pile whether Mons be taken, or no? a dialogue between a courtier, a citizen, and a sharper of the town : the scene, Jonathan's coffe-house.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1691</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A25901</idno>
+            <idno type="STC">Wing A3791</idno>
+            <idno type="STC">ESTC R9408</idno>
+            <idno type="EEBO-CITATION">11664786</idno>
+            <idno type="OCLC">ocm 11664786</idno>
+            <idno type="VID">48017</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A25901)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 48017)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 8:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Art of getting money by double-fac'd wagers, or, Cross and pile whether Mons be taken, or no? a dialogue between a courtier, a citizen, and a sharper of the town : the scene, Jonathan's coffe-house.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1691.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Imaginary conversations.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="dialogue">
+            <pb facs="tcp:48017:1"/>
+            <pb n="1" facs="tcp:48017:1"/>
+            <head>THE <hi>Art of getting Money</hi> BY Double-Fac'd WAGERS; OR, Croſs and Pile whether
+<hi>MONS</hi> be Taken, or no? A <hi>DIALOG<g ref="char:V">Ʋ</g>E</hi> Between a <hi>Courtier,</hi> a
+<hi>Citizen,</hi> and a <hi>Sharper</hi> of the Town.</head>
+            <head type="sub">
+               <hi rend="stage">The SCENE <hi>Jonathan</hi>'s COFFE-HOUSE.</hi>
+            </head>
+            <epigraph>
+               <q>
+                  <hi>Parturiunt</hi> MONTES <hi>Naſcitur ridiculus Mus.</hi>
+               </q>
+            </epigraph>
+            <sp>
+               <speaker>Court.</speaker>
+               <p>HEre Sirrah—<hi>A Diſh of Tea,</hi> and deſire that <hi>Gentleman</hi> in the
+<hi>Band</hi> to ſpeak with me—<hi>Oh, Sir, your Servant,</hi> (to the <hi>Citizen</hi>)
+'faith I lately came from the <hi>Preſence,</hi> and 'tis ſaid, the <hi>Queen</hi> receiv'd an
+<hi>Expreſs</hi> juſt now, that <hi>Mons</hi> was taken; Pray what News have you in the
+<hi>City?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Citiz.</speaker>
+               <p>
+                  <hi>Mons taken, Sir?</hi> Ay, ſo is <hi>Venice,</hi> Sir! <hi>Lord,</hi> you
+<hi>Gentle<g ref="char:EOLhyphen"/>men</hi> of the t'other end of the Town have the ſtrangeſt Intelligence! why, nothing but <hi>Pacolet</hi>'s <hi>Flying Horſe</hi> could bring over the News ſo ſuddenly.</p>
+            </sp>
+            <sp>
+               <speaker>Courti.</speaker>
+               <p>Why do you doubt the Truth of it, Sir?</p>
+            </sp>
+            <sp>
+               <speaker>Cit.</speaker>
+               <p>I know no Reaſon I ſhould let any Mans Opinion be the Standard of my Faith, for—</p>
+            </sp>
+            <sp>
+               <speaker>Courti.</speaker>
+               <p>Perhaps 'tis your Intereſt, Sir, to disbelieve it, you have laid ſome <hi>Wagers</hi> upon that occaſion, and I muſt confeſs, the Hopes of Winning, and the fear of Loſing, will make any man ſuſpend his belief for ſome time.</p>
+            </sp>
+            <sp>
+               <speaker>Citiz.</speaker>
+               <p>The Truth on't is, Sir, I am a <hi>little dipt,</hi> ſome five or ſix
+<pb n="2" facs="tcp:48017:2"/>Hundred Pounds to ſeveral Perſons, and unleſs the Prince <hi>De Bergue,</hi> the Governour of the <hi>Town,</hi> ſends me a Letter from his own hand, ſhall hardly believe the Affirmation of any <hi>Oſtender</hi> that comes by the way of
+<hi>Plimouth.</hi> Meer Shams, Sir, meer Shams.</p>
+            </sp>
+            <sp>
+               <speaker>Courti.</speaker>
+               <stage>(Turning aſide)</stage>
+               <p>Well, now have I a Roguiſh Inclination to bite this <hi>Opus &amp; <g ref="char:V">Ʋ</g>ſus,</hi> and tho' I my ſelf am a little doubtful of the matter, yet the ſingring of ſome <hi>City Gold,</hi> will be more pleaſant to me, than a little Eſtate won at the <hi>Groom Porters.</hi>
+                  <stage>(Turning to him)</stage> Well, Sir, have you a few <hi>Dormant Guineas</hi> in your Cloſet, you are indifferent whether you Win or Loſe upon this Occaſion?</p>
+            </sp>
+            <sp>
+               <speaker>Citiz.</speaker>
+               <p>Truly, Sir, Mony was never reckon'd by me amongſt things indifferent; but I have <hi>Fifty Pound,</hi> I will venture to odds with any Perſon, that <hi>Mons</hi> will not be in the
+<hi>French King</hi>'s Hands by the firſt of <hi>May</hi>—</p>
+            </sp>
+            <sp>
+               <speaker>Courti.</speaker>
+               <p>No more words, Sir, I am your Man, here's ten hard pieces of <hi>Old Barbary Gold,</hi> with the
+<hi>Royal Effigies</hi> upon them—which ſaid Sum ſhall be yours, if in a little time I do not convince you the <hi>Town</hi> is in the <hi>French</hi> hands; the Counterpart of which Obligation is, you are to give me Fifty Guineas, when you are un<g ref="char:EOLhyphen"/>deniably convinc'd the Town is taken.</p>
+            </sp>
+            <sp>
+               <speaker>Citiz.</speaker>
+               <p>With all my Heart, Sir; in Token whereof, here's my hand, Sir, and ſo good Luck attend me.</p>
+            </sp>
+            <stage>Enter a Sharper.</stage>
+            <sp>
+               <speaker>Sharp.</speaker>
+               <p>Boy—the <hi>Gazett</hi>—quickly, here's ſuch a doe with a little
+<hi>Netherlandiſh Town,</hi> not ſo big as <hi>Rumford,</hi> a<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> if all <hi>Europe</hi> lay at ſtake, and the Peace of
+<hi>Chriſtendome</hi> depended upon the Relief of that ſingle place—
+<stage>(ſoftly to himſelf)</stage> Well, Money is my aim, and if 'tis any where, 'tis in the <hi>City;</hi> theſe Grave out-of-Faſhion Sparks command the Gold, and 'faith, <hi>Good Men and True,</hi> it ſhall go hard, but I'le rid you of ſome on't in a very civil way. So, ſo, I ſee a kind of malicious Pleaſure in a Gentleman's Face yonder, diſcourſing with Mr.
+<hi>Get-all</hi> the Merchant, I'le go a little nearer, and obſerve their motions, ſome
+<hi>Wager</hi> going forward, my Life to a Pepper-Corn;
+<stage>(comes up to 'em)</stage> What News, Gentlemen, from <hi>Flanders?</hi> Is
+<hi>Mons</hi> taken yet?</p>
+            </sp>
+            <sp>
+               <speaker>Citizen.</speaker>
+               <p>Sir, You ask a very hard Queſtion, I am no Privy-Coun<g ref="char:EOLhyphen"/>ſellor, Sir.</p>
+            </sp>
+            <sp>
+               <speaker>Sharp.</speaker>
+               <stage>(Aſide)</stage>
+               <p>No, I dare ſwear it—Come here's twenty Gui<g ref="char:EOLhyphen"/>n<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>s w<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>h any man, that <hi>Mons</hi> is not now under the <hi>French</hi> power.</p>
+            </sp>
+            <sp>
+               <speaker>Court.</speaker>
+               <p>What odds d'ye allow, Sir, and what d'ye mean by the word <hi>Now?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sharp.</speaker>
+               <p>D'ye take one fo<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <hi>J<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſuit,</hi> Sir? By <hi>Now,</hi> I underſtand th<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <pb n="3" facs="tcp:48017:2" rendition="simple:additions"/>Numerical Hour of One in the Afternoon,
+<hi>April</hi> the 11th. 1691. And for the Wager, I am upon the ſquare.</p>
+            </sp>
+            <sp>
+               <speaker>Court.</speaker>
+               <p>I take you up, Sir—here's the Money; and by reaſon we are both Strangers to one another, we will depoſit our Money in this civil <hi>Gentleman</hi>'s hands, he is a ſubſtantial man, and his Word will paſs where a <hi>Nobleman</hi>'s Bond will ſignifie nothing.</p>
+            </sp>
+            <sp>
+               <speaker>Sharp.</speaker>
+               <p>With all my Heart, Sir—
+<stage>(Speaking to the Citizen)</stage> And now to you, Mr. <hi>Treaſurer,</hi> I will lay the contrary Wager, that <hi>Mons</hi> has been in the <hi>French</hi> power ever ſince
+<hi>Tueſday</hi> the 31ſt. of <hi>March</hi> laſt.</p>
+            </sp>
+            <sp>
+               <speaker>Citiz.</speaker>
+               <p>Why, Sir, do you lay croſs Wagers?</p>
+            </sp>
+            <sp>
+               <speaker>Sharp.</speaker>
+               <p>No matter for that, Sir, if you accept me, there's your mo<g ref="char:EOLhyphen"/>ney; for yours you are your own Caſh-keeper.</p>
+            </sp>
+            <sp>
+               <speaker>Citiz.</speaker>
+               <p>Come, Sir, 'tis done—</p>
+               <stage>(ſtrike hands.)</stage>
+            </sp>
+            <sp>
+               <speaker>Sharp.</speaker>
+               <p>Gentlemen, there's a Sea-Captain gone down the Ally, I muſt needs ſpeak with him. Your pardon, Gent.</p>
+               <stage>Exit.</stage>
+            </sp>
+            <sp>
+               <speaker>Court.</speaker>
+               <p>This is one of the pleaſanteſt Sparks I ever met with; why this is like playing at Cards for nothing—However, tho he gains little he is ſure to be no loſer by the bargain.</p>
+            </sp>
+            <sp>
+               <speaker>Citiz.</speaker>
+               <p>For my part, I wiſh no better Eſtate to befall me, than the Wagers laid, <hi>pro</hi> and
+<hi>con,</hi> about this buſineſs: Complaints are made of the want of money; when you can hardly go into any Tavern or Coffee-Houſe, but the <hi>Guinea</hi>'s are tumbling about with
+<hi>Mons</hi> is ta<g ref="char:EOLhyphen"/>ken, and <hi>Mons</hi> is not taken; when upon the whole matter I can<g ref="char:EOLhyphen"/>not, with my political Spectacles, diſcern what mighty matter can be in it— But Intereſt ſwears all men to be true to their Principles.</p>
+            </sp>
+            <sp>
+               <speaker>Court.</speaker>
+               <p>But if the <hi>French</hi> King puſhes on his Fortune, all <hi>Flanders</hi> will be his in a little time, and then <hi>Myn heer Van Pickleherring</hi> look to your ſelf; for if he goes on at this rate, he may dine in <hi>Amſterdam</hi> by <hi>Michaelmas</hi> day, for any thing I can gueſs.</p>
+            </sp>
+            <sp>
+               <speaker>Cit.</speaker>
+               <p>Yes, and at <hi>Chriſtmas</hi> in <hi>Northampton!</hi> not too faſt, Sir, not too faſt; the <hi>Spaniards</hi> are a People ſlow in Action; but we have a <hi>Prince of our own,</hi> whom I hope will ſtop his Progreſs, and make him ſlacken his pace a little.</p>
+            </sp>
+            <sp>
+               <speaker>Court.</speaker>
+               <p>If your Faith be great, I wonder it does not attempt to re<g ref="char:EOLhyphen"/>move Mountains; were your Charity but half as large, you would certainly go to Heaven.</p>
+            </sp>
+            <sp>
+               <speaker>Cit.</speaker>
+               <p>So I ſhall, I hope, tho' I call the <hi>Pope</hi> the <hi>Whore of Babylon.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Courti.</speaker>
+               <p>A little more Civility tho', as he is a <hi>Temporal Prince,</hi> 'twould not beamiſs. But, Sir, what News have you of the <hi>Bilboa Fleet,</hi> they ſay the <hi>French</hi> have taken it, and ſunk the <hi>Man of War,</hi> who was its Convoy?</p>
+            </sp>
+            <sp>
+               <speaker>Citiz.</speaker>
+               <p>You may as well believe, the <hi>Peke</hi> of <hi>Tenariff</hi> is ſunk; no, no—Heaven be Praiſed, they paſt by <hi>Plimouth</hi> a few days ſince.</p>
+            </sp>
+            <pb n="4" facs="tcp:48017:3"/>
+            <sp>
+               <speaker>Courti.</speaker>
+               <p>Why, a Maſter of the <hi>Inſurance Office,</hi> offered Twenty Thouſand Pound to any one, who would bear their Bank harmleſs; upon the firſt Rumours of the <hi>Veſſels</hi> being loſt.</p>
+            </sp>
+            <sp>
+               <speaker>Citiz.</speaker>
+               <p>Had any one had the Gift of Prophecy, and taken his Mo<g ref="char:EOLhyphen"/>ney, he might have ſhook hands with an
+<hi>Alderman.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Courti.</speaker>
+               <p>But, Sir, does the <hi>News</hi> hold good, that the <hi>Pacquet Boat</hi> wherein the Biſhop of <hi>L</hi>— Dr. <hi>Scot,</hi> Dr. <hi>Grove,</hi> &amp;c. were ſup<g ref="char:EOLhyphen"/>pos'd to be, is ſtill miſſing?</p>
+            </sp>
+            <sp>
+               <speaker>Citiz.</speaker>
+               <p>Meer Lyes, Shams, Tricks, Amuſements; well, theſe In<g ref="char:EOLhyphen"/>venting Lying Sons of Caterpillers, were I a Magiſtrate, ſhould ſuf<g ref="char:EOLhyphen"/>fer the Law moſt ſeverely, and Dance from <hi>Algate</hi> to <hi>Newgate,</hi> and from thence to <hi>Tyburn,</hi> to the Tune of Dr. <hi>O—tes</hi> his <hi>Jig.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Courti.</speaker>
+               <p>The Truth muſt be confeſt, there are a ſort of deſigning People, who having no buſineſs of their own, make it their Imploy<g ref="char:EOLhyphen"/>ment to invent Lyes, Stories, and Contradictions, to diſturb the minds of the unthinking Vulgar—but I hope, Sir, Men of your refin'd Thoughts give no Credit to 'em.</p>
+            </sp>
+            <sp>
+               <speaker>Courti.</speaker>
+               <p>Thanks for the Complement, Sir.</p>
+            </sp>
+            <stage>
+               <hi>Enter the</hi> Sharper <hi>in another Dreſs.</hi>
+            </stage>
+            <sp>
+               <speaker>Sharp.</speaker>
+               <p>Gentlemen, ſet your Hearts at reſt, <hi>Mons</hi> is as certainly gone as
+<hi>Luxemburgh.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Courti.</speaker>
+               <stage>(<hi>To the</hi> Citizen)</stage>
+               <p>D'ye hear that, Sir, D'ye hear that?</p>
+            </sp>
+            <sp>
+               <speaker>Citiz.</speaker>
+               <p>Why I am not Deaf. But d'ye think I credit every flying idle Report?</p>
+            </sp>
+            <sp>
+               <speaker>Sharp.</speaker>
+               <p>Sir, I came from a Gentleman juſt now, who had it from the Secretary's Office, who heard my Lord—affirm it, and I pre<g ref="char:EOLhyphen"/>ſume you Read the <hi>Gazette</hi> yeſterday, Sir.</p>
+            </sp>
+            <sp>
+               <speaker>Citiz.</speaker>
+               <p>Yes, but I don't believe a word on't; and to aſſure you I do not, give me <hi>Ten Guineas,</hi> Sir, and I'le enter into Bond to pay you Twenty Shillings a week, every week while you live, during the time (the ſuppoſed taken) <hi>Mons</hi> remains in the <hi>French</hi> Cuſtody.</p>
+            </sp>
+            <sp>
+               <speaker>Charp.</speaker>
+               <stage>(Aſide.)</stage>
+               <p>This is what I would have. Come, Sir, there's your Money. Now I think I have bit him finely, the
+<hi>French</hi> don't uſe to part with their Conqueſts ſo eaſily; this is as good as an An<g ref="char:EOLhyphen"/>nuity for Life, come, Sir, if you pleaſe we'll to the Scriveners.</p>
+            </sp>
+            <sp>
+               <speaker>Citiz.</speaker>
+               <p>Not too haſty, Sir—well, Sir, let me ſee you here to<g ref="char:EOLunhyphen"/>morrow.</p>
+               <stage>(<hi>Speaking to the</hi> Courtier.)</stage>
+            </sp>
+            <sp>
+               <speaker>Courtier.</speaker>
+               <p>I'le not fail to wait on you, Sir.</p>
+            </sp>
+            <sp>
+               <speaker>Sharp.</speaker>
+               <p>Nor I neither.</p>
+               <lg>
+                  <l>
+                     <hi>Let Scraping</hi> Miſers <hi>hoard up ſordid Gains,</hi>
+                  </l>
+                  <l>
+                     <hi>The beſt Eſtate is a large ſtock of Brains.</hi>
+                  </l>
+               </lg>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON:</hi> Printed in the Year, 1691.</p>
+            <pb facs="tcp:48017:3"/>
+         </div>
+      </back>
+   </text>
+</TEI>
